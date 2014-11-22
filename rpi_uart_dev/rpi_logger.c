@@ -5,9 +5,7 @@
 #include <stdarg.h>
 #include "include/rpi_logger.h"
 
-#ifndef DUAL_PRINTF 
 #define DUAL_PRINTF
-#endif
 
 
 
